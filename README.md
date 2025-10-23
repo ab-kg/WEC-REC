@@ -26,8 +26,8 @@ cmake --build .
 
 
 TASK1 ==> renders a polygon 
-<img width="1000" height="500" alt="hexagon" src="https://github.com/user-attachments/assets/d520dd62-8399-4796-ae5d-09a0169b9049" />
-<img width="1000" height="500" alt="hexagon" src="https://github.com/user-attachments/assets/9336a863-215f-4879-95a5-5bdfb5c09b07" />
+<img width="500" height="500" alt="hexagon" src="https://github.com/user-attachments/assets/d520dd62-8399-4796-ae5d-09a0169b9049" />
+<img width="500" height="500" alt="hexagon" src="https://github.com/user-attachments/assets/9336a863-215f-4879-95a5-5bdfb5c09b07" />
 
 TASK2 ==> renders .obj model with interactive camera
 
@@ -50,4 +50,5 @@ SPACE - move up
 TASK3 ==> renders textured cube blocks 
 
 ![texture](https://github.com/user-attachments/assets/f70e3efe-e461-4ef6-af5a-145c85d82f1e)
+
 
