@@ -41,6 +41,8 @@ Tasks have been implemented related to graphics programming:
 
 ![texture](https://github.com/user-attachments/assets/f70e3efe-e461-4ef6-af5a-145c85d82f1e)  
 
+[![Video Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1cCl3cKgPfhYrYFjJz1YprBttckUHL5yW/view?usp=sharing)
+
 ---
 
 ## How to build
@@ -53,4 +55,5 @@ cd WEC-REC
 mkdir build && cd build
 cmake ..  ( For generating proj files )
 cmake --build . ( For building the executable ) 
+
 
