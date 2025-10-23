@@ -7,30 +7,11 @@ Tasks have been implemented related to grpahics programming
 4. Frame Capture
 5. Texture Mapping
 
-how to build
-
-git clone --recursive https://github.com/ab-kg/WEC-REC.git 
-
-cd WEC-REC
-
-mkdir build && cd build
-
-
-* To generate proj files
-
-cmake ..
-
-* To build the executable 
-
-cmake --build .
-
-
 TASK1 ==> renders a polygon 
 
-<img width="500" height="500" alt="octagon" src="https://github.com/user-attachments/assets/8eeada1d-8f77-465b-b6e9-2ad6098b4b0d" />
+<img width="500" height="400" alt="octagon" src="https://github.com/user-attachments/assets/8eeada1d-8f77-465b-b6e9-2ad6098b4b0d" />
 
-<img width="500" height="500" alt="hexagon" src="https://github.com/user-attachments/assets/9336a863-215f-4879-95a5-5bdfb5c09b07" />
-
+<img width="500" height="400" alt="hexagon" src="https://github.com/user-attachments/assets/9336a863-215f-4879-95a5-5bdfb5c09b07" />
 
 TASK2 ==> renders .obj model with interactive camera
 
@@ -54,5 +35,21 @@ TASK3 ==> renders textured cube blocks
 
 ![texture](https://github.com/user-attachments/assets/f70e3efe-e461-4ef6-af5a-145c85d82f1e)
 
+how to build
+
+git clone --recursive https://github.com/ab-kg/WEC-REC.git 
+
+cd WEC-REC
+
+mkdir build && cd build
+
+
+* To generate proj files
+
+cmake ..
+
+* To build the executable 
+
+cmake --build .
 
 
