@@ -1,0 +1,6 @@
+/vendors/glm/*
+/vendors/glfw/*
+/vendors/assimp/*
+
+out/
+build/

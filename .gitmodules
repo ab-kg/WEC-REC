@@ -1,0 +1,17 @@
+[submodule "glm"]
+	path = vendors/glm
+	url = https://github.com/g-truc/glm.git
+	branch = master
+[submodule "glfw"]
+	path = vendors/glfw
+	url = https://github.com/glfw/glfw.git
+	branch = master
+[submodule "vendors/assimp"]
+	path = vendors/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "vendors/glm"]
+	path = vendors/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "vendors/glfw"]
+	path = vendors/glfw
+	url = https://github.com/glfw/glfw.git

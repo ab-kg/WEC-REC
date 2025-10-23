@@ -1,0 +1,123 @@
+#
+#
+#
+
+newmtl  Mesh_mat0
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd buttstock_baseColor.png
+
+newmtl  Mesh_mat1
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ns 178.885468
+
+newmtl  Mesh_mat10
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd handguard_baseColor.png
+
+newmtl  Mesh_mat11
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd foregrip_baseColor.png
+
+newmtl  Mesh_mat12
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd charging_handle_baseColor.png
+
+newmtl  Mesh_mat13
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd mount_flashlight_baseColor.png
+
+newmtl  Mesh_mat14
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd SureFire_EDC1_baseColor.png
+
+newmtl  Mesh_mat2
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd barrel_baseColor.png
+
+newmtl  Mesh_mat3
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd muzzle_brake_baseColor.png
+
+newmtl  Mesh_mat4
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd suppressor_baseColor.png
+
+newmtl  Mesh_mat5
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd lower_baseColor.png
+
+newmtl  Mesh_mat6
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd upper_baseColor.png
+
+newmtl  Mesh_mat7
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd eotech_baseColor.png
+
+newmtl  Mesh_mat8
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd pmag_baseColor.png
+
+newmtl  Mesh_mat9
+illum 2
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ns 0.000000
+map_Kd grip_baseColor.png
+
