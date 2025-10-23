@@ -49,11 +49,7 @@ Tasks have been implemented related to graphics programming in 3 projects Task1 
 
 [![Clone Repo](https://img.shields.io/badge/Git-Clone-blue?style=for-the-badge)](https://github.com/ab-kg/WEC-REC.git)
 
-Clone recursively to get all the submodules , if you didn't use the below command .
-
-```bash
-  git submodule update --init --recursive
-```
+Clone recursively to get all the submodules , 
 
 ```bash
 git clone --recursive https://github.com/ab-kg/WEC-REC.git 
@@ -61,6 +57,7 @@ cd WEC-REC
 mkdir build && cd build
 cmake ..  ( For generating proj files )
 cmake --build . ( For building the executable ) 
+
 
 
 
