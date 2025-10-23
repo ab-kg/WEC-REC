@@ -51,3 +51,6 @@ Tasks have been implemented related to graphics programming:
 git clone --recursive https://github.com/ab-kg/WEC-REC.git 
 cd WEC-REC
 mkdir build && cd build
+cmake ..  ( For generating proj files )
+cmake --build . ( For building the executable ) 
+
